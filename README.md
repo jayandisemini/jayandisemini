@@ -3,11 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jayandisemini2003-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="jayandisemini2003-pixel" /> </p>
 
-- 🔭 I’m currently working on **Food Ordering Mobile App**
+- 🔭 I’m a **Full-Stack Developer & Computer Science Student**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Cloud migrations and deployment**
 
-- 💬 Ask me about **Dart**
+- 💬 Ask me about **phython,c#,javascript,react,node.js,php,sql**
 
 - 📫 How to reach me **jayandisemini2003@gmail.com**
 
