@@ -54,10 +54,9 @@
 ---
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayandisemini&show_icons=true&theme=tokyonight" alt="Jayandi's GitHub Stats" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayandisemini&theme=tokyonight" alt="Jayandi's GitHub Streak" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayandisemini&layout=compact&theme=tokyonight&locale=en" alt="Jayandi's Top Languages" height="195" />
-</p>
+![Jayandi's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jayandisemini&show_icons=true&theme=tokyonight)
 
+![Jayandi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jayandisemini&theme=tokyonight)
+
+![Jayandi's Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jayandisemini&layout=compact&theme=tokyonight&locale=en)
 
