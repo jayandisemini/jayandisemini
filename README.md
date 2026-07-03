@@ -56,10 +56,10 @@
 ### 📊 GitHub Stats:
 <p align="center">
   <!-- Main Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jayandisemini2003-pixel&show_icons=true&theme=tokyonight&locale=en" alt="Jayandi's GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jayandisemini&show_icons=true&theme=tokyonight&locale=en" alt="Jayandi's GitHub Stats" height="195" />
   
   <!-- Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayandisemini2003-pixel&theme=tokyonight" alt="Jayandi's Streak Stats" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayandisemini&theme=tokyonight" alt="Jayandi's Streak Stats" height="195" />
 </p>
 
 <p align="center">
