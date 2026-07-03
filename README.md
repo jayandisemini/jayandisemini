@@ -64,5 +64,5 @@
 
 <p align="center">
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayandisemini2003-pixel&layout=compact&theme=tokyonight&locale=en" alt="Jayandi's Top Languages" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayandisemini&layout=compact&theme=tokyonight&locale=en" alt="Jayandi's Top Languages" height="195" />
 </p>
